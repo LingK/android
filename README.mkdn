@@ -3,7 +3,7 @@ Getting Started
 
 The mecha (Thunderbolt) requires a separate source tree in order to have a properly functioning RIL on all devices.
 
-To initialize your local repository using the Team Liquid trees, use a command like this:
+To initialize your local repository using the Team Liquid gingerbread [mecha] tree, use a command like this:
 
     repo init -u git@github.com:TeamLiquid/android.git -b gingerbread-mecha
 
