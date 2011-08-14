@@ -1,12 +1,11 @@
 Getting Started
 ---------------
 
-To get started with Android/TeamLiquid, you'll need to get
-familiar with [Git and Repo](http://source.android.com/download/using-repo).
+The mecha (Thunderbolt) requires a manifest specific to it in order to have a properly functioning RIL on all devices.
 
 To initialize your local repository using the Team Liquid trees, use a command like this:
 
-    repo init -u git@github.com:TeamLiquid/android.git
+    repo init -u git@github.com:TeamLiquid/android.git -b gingerbread-mecha
 
 Then to sync up:
 
