@@ -3,7 +3,7 @@ Getting Started
 
 To initialize your local repository using the Team Liquid gingerbread tree, use a command like this:
 
-    repo init -u git@github.com:TeamLiquid/android.git -b gingerbread
+    repo init -u git://github.com/LiquidSmoothROMs/android.git -b gingerbread
 
 Then to sync up:
 
