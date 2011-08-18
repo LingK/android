@@ -53,7 +53,7 @@
   <project path="external/emma" name="platform/external/emma" />
   <project path="external/esd" name="platform/external/esd" />
   <project path="external/expat" name="platform/external/expat" />
-  <project path="external/fdlibm" name="platform/external/fdlibm" />CyanogenMod / android_packages_apps_AicBootFix
+  <project path="external/fdlibm" name="platform/external/fdlibm" />
   <project path="external/flac" name="CyanogenMod/android_external_flac" remote="github" />
   <project path="external/freetype" name="platform/external/freetype" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" />
