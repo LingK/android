@@ -187,7 +187,6 @@
   <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="master" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
-  <project path="vendor/htc" name="koush/proprietary_vendor_htc" remote="github" />
   <project path="vendor/liquid" name="LiquidSmoothROMs/android_vendor_liquid" remote="liquid" />
   <project path="vendor/motorola" name="koush/proprietary_vendor_motorola" remote="github" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" />
