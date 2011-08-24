@@ -22,13 +22,14 @@
   <project path="bionic" name="CyanogenMod/android_bionic" remote="github" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="platform/bootable/recovery" />
+  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" />
   <project path="development" name="CyanogenMod/android_development" remote="github" />
   <project path="device/common" name="device/common" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
   <project path="device/htc/mecha" name="LiquidSmoothROMs/android_device_htc_mecha" remote="liquid" />
   <project path="device/htc/msm7x30-common" name="CyanogenMod/android_device_htc_msm7x30-common" remote="github" />
+  <project path="device/motorola/common" name="CyanogenMod/android_device_motorola_common" remote="github" />  
   <project path="device/motorola/droid2" name="LiquidSmoothROMs/android_device_motorola_droid2" remote="liquid" />
   <project path="device/motorola/shadow" name="LiquidSmoothROMs/android_device_motorola_shadow" remote="liquid" />
   <project path="device/motorola/sholes" name="LiquidSmoothROMs/android_device_motorola_sholes" remote="liquid" />
