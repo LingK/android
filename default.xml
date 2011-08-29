@@ -151,7 +151,7 @@
   <project path="packages/apps/Email" name="LiquidSmoothROMs/android_packages_apps_Email" remote="github" />
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" />
   <project path="packages/apps/Gallery3D" name="LiquidSmoothROMs/android_packages_apps_Gallery3D" remote="github" />
-  <project path="packages/apps/LiquidSettings" name="TeamLiquid/android_packages_apps_LiquidSettings" remote="liquid-private" revision="gingerbread-mecha" /> 	
+  <project path="packages/apps/LiquidSettings" name="TeamLiquid/android_packages_apps_LiquidSettings" remote="liquid-private" /> 	
   <project path="packages/apps/Mms" name="LiquidSmoothROMs/android_packages_apps_Mms" remote="github" />
   <project path="packages/apps/Music" name="LiquidSmoothROMs/android_packages_apps_Music" remote="github" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
