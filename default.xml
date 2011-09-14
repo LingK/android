@@ -161,7 +161,7 @@
   <project path="packages/apps/Phone" name="LiquidSmoothROMs/android_packages_apps_Phone" revision="gingerbread-mecha" />
   <project path="packages/apps/Settings" name="LiquidSmoothROMs/android_packages_apps_Settings" revision="gingerbread-mecha" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
-  <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" revision="gingerbread-mecha" />
+  <project path="packages/apps/Stk" name="LiquidSmoothROMs/android_packages_apps_Stk" revision="gingerbread-mecha" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
@@ -174,7 +174,7 @@
   <project path="packages/providers/DrmProvider" name="CyanogenMod/android_packages_providers_DrmProvider" />
   <project path="packages/providers/GoogleContactsProvider" name="CyanogenMod/android_packages_providers_GoogleContactsProvider" />
   <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" />
-  <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" revision="gingerbread-mecha" />
+  <project path="packages/providers/TelephonyProvider" name="LiquidSmoothROMs/android_packages_providers_TelephonyProvider" revision="gingerbread-mecha" />
   <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
   <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" />
@@ -182,10 +182,10 @@
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
   <project path="sdk" name="CyanogenMod/android_sdk" revision="tools_r7" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="CyanogenMod/android_system_core" revision="gingerbread-mecha" />
+  <project path="system/core" name="LiquidSmoothROMs/android_system_core" revision="gingerbread-mecha" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
-  <project path="system/netd" name="CyanogenMod/android_system_netd" revision="gingerbread-mecha" />
+  <project path="system/netd" name="LiquidSmoothROMs/android_system_netd" revision="gingerbread-mecha" />
   <project path="system/su" name="CyanogenMod/android_system_su" revision="master" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
