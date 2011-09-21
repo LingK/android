@@ -29,6 +29,7 @@
   <project path="device/htc/vivow" name="LiquidSmoothROMs/android_device_htc_vivow" />  
   <project path="device/motorola/common" name="CyanogenMod/android_device_motorola_common" />  
   <project path="device/motorola/droid2" name="LiquidSmoothROMs/android_device_motorola_droid2" />
+  <project path="device/motorola/droid2we" name="LiquidSmoothROMs/android_device_motorola_droid2we" />
   <project path="device/motorola/shadow" name="LiquidSmoothROMs/android_device_motorola_shadow" />
   <project path="device/motorola/sholes" name="LiquidSmoothROMs/android_device_motorola_sholes" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
