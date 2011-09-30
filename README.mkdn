@@ -10,7 +10,7 @@ Then to sync up:
     repo sync
 
 NOTE:
-Until kernel.org is back up and running, you'll need to modify the repo command scrip to use
+Until kernel.org is back up and running, you'll need to modify the repo command script to use
 a different url.
 The location of the script may differ from machine to machine but the common locations are as follows:
 
