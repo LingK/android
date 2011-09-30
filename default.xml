@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+<!-- remove till korg gets back up
   <remote  name="korg"
            fetch="git://android.git.kernel.org/" />
+-->
 
   <remote  name="github"
            fetch="git://github.com/" />
