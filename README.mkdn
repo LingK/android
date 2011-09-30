@@ -10,3 +10,19 @@ To initialize your local repository using the Team Liquid gingerbread-mecha tree
 Then to sync up:
 
     repo sync
+
+NOTE:
+Until kernel.org is back up and running, you'll need to modify the repo command script to use
+a different url.
+The location of the script may differ from machine to machine but the common locations are as follows:
+
+    /usr/bin/repo
+    /usr/local/bin/repo
+    ~/bin/repo
+
+Edit the file and change the line that reads:
+    REPO_URL='git://android.git.kernel.org/tools/repo.git'
+
+To:
+
+    REPO_URL='git://github.com/android/tools_repo.git'
