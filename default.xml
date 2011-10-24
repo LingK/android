@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="korg"
+  <remote name="google"
            fetch="https://android.googlesource.com/" />
 
   <remote  name="github"
@@ -11,7 +11,7 @@
            fetch="git@github.com:" />
 
   <default revision="gingerbread"
-           remote="korg" />
+           remote="google" />
 
   <project path="build" name="LiquidSmoothROMs/android_build" remote="github" >
     <copyfile src="core/root.mk" dest="Makefile" />
